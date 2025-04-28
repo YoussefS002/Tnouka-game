@@ -1,6 +1,6 @@
 # Tnouka
 
-**Tnouka** is a 2-player tank game that I developed when I was 17 years old.
+**Tnouka** is a 2-player tank game that I developed with Unity 2D when I was 17 years old.
 
 ## 🎮 How to Play
 
