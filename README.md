@@ -4,7 +4,7 @@
 
 ## 🎮 How to Play
 
-- **Download** the setup file: [tnouka_setup.exe](./tnouka_setup.exe)  
+- **Download** the setup file: [Tnouka_setup.exe](./Tnouka_setup.exe)  
 - **Install** and **start playing** with a friend!
 - Two players compete by controlling tanks and trying to defeat each other.
 
